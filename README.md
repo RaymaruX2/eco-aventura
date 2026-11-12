@@ -13,6 +13,11 @@ El jugador recorre el bosque recogiendo basura (bolsas y botellas plásticas), e
 |---|---|
 | ![Gameplay 1](docs/capturas/gameplay-1.jpg) | ![Gameplay 2](docs/capturas/gameplay-2.jpg) |
 
+<p align="center">
+  <img src="docs/capturas/combate-enemigo.jpg" width="720" alt="El gato salta sobre un enemigo árbol junto a un foso con pinchos" />
+  <br><em>Combate: saltando hacia un enemigo, con un foso de pinchos debajo</em>
+</p>
+
 ## ✨ Novedades de la versión 2.0
 
 - **Combate del jugador**: ataque en suelo y ataque en el aire, doble salto y agarre a paredes.
