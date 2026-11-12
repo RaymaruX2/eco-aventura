@@ -1,0 +1,12 @@
+Todos los sonidos de esta carpeta tienen licencia CC0 (dominio publico). Atribucion no obligatoria.
+
+Jugador/, Interfaz/, Enemigos/Comun, partes de Enemigos/* (pasos, saltos, picado, chillido de la zarigueya):
+  "512 Sound Effects (8-bit style)" - Juhani Junkala (SubspaceAudio)  https://opengameart.org/content/512-sound-effects-8-bit-style
+Enemigos/Perro/grunido.ogg      "Dog Growl" - bonebrah            https://opengameart.org/content/dog-growl
+Enemigos/Perro/resoplido.wav    "Dog Grunt" - qubodup (convertido de FLAC)  https://opengameart.org/content/dog-grunt
+Enemigos/Rana/croar*.mp3        "Frog Croaks" - EZduzziteh        https://opengameart.org/content/frog-croaks
+Enemigos/Aguila/chillido.wav    "Peacock scream" - popthebubbles4 (convertido de FLAC, recortado) https://opengameart.org/content/peacock-scream
+Ambiente/bosque.mp3             "Forest Ambience" - TinyWorlds    https://opengameart.org/node/23888
+Ambiente/cueva.ogg              "Loopable Dungeon Ambience" - JaggedStone https://opengameart.org/content/loopable-dungeon-ambience
+Ambiente/viento_alturas.ogg, Musica/alturas_synth.ogg  "Birds and Wind - Ambient / Birds, Wind and Synth" - Spring Spring https://opengameart.org/node/93987
+Ambiente/pajaros.ogg            "Ambient Bird Sounds" - isaiah658 https://opengameart.org/content/ambient-bird-sounds
